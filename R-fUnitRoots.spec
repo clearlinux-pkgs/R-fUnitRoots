@@ -7,7 +7,7 @@
 #
 Name     : R-fUnitRoots
 Version  : 4040.81
-Release  : 44
+Release  : 45
 URL      : https://cran.r-project.org/src/contrib/fUnitRoots_4040.81.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fUnitRoots_4040.81.tar.gz
 Summary  : Rmetrics - Modelling Trends and Unit Roots
